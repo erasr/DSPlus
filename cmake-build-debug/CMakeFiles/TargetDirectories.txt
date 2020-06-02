@@ -1,0 +1,3 @@
+/Users/mr.x/Documents/GR/DSPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mr.x/Documents/GR/DSPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mr.x/Documents/GR/DSPlus/cmake-build-debug/CMakeFiles/DSPlus.dir
